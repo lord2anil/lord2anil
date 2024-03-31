@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anilrundla.netlify.app/](https://anilrundla.netlify.app/)
 
-- 💬 Ask me about **React, Node js, Django ,Python, C++**
+- 💬 Ask me about ** Rust, React, Node js, Django ,Python, C++**
 
 - 📫 How to reach me **a8208226@gmail.com**
 
